@@ -1,0 +1,28 @@
+name: Leap Day Campaign
+favicon: null
+layout_spectrum: 0.7883723783306777
+typography_spectrum: 0.9517997871153057
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4152549693826586
+  lightness: 0.1777094011195004
+  saturation: 0.298375811195001
+  rhythmicContrast: 0.1711600418202579
+purpose: []
